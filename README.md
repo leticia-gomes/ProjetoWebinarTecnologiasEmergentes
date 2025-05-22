@@ -53,7 +53,7 @@ git clone https://github.com/leticia-gomes/ProjetoWebinarTecnologiasEmergentes.g
 ### 2. Navegue para a pasta web
 
 ```bash
-cd ProjetoWebinarTecnologiasEmergentes/web
+cd web
 ```
 
 ### 3. Instale as dependências
@@ -92,6 +92,13 @@ npm start
 ```
 
 Acesse em: [http://localhost:3000](http://localhost:3000)
+
+### 6. Encerra o servidor de desenvolvimento do React
+
+✅ Pressione:
+```bash
+Ctrl + C
+```
 
 ---
 
