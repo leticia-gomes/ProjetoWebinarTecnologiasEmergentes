@@ -119,6 +119,6 @@ MIT License © Letícia Gomes Ribeiro
 
 ## 🙋‍♂️ Autor
 
-**Seu Nome**  
+**Letícia Gomes Ribeiro**  
 🔗 [GitHub](https://github.com/leticia-gomes)  
 🔗 [LinkedIn](https://linkedin.com/in/leticia-gomes-ribeiro)
