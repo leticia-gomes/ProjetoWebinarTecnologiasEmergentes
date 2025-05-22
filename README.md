@@ -48,16 +48,21 @@ web/
 
 ```bash
 git clone https://github.com/leticia-gomes/ProjetoWebinarTecnologiasEmergentes.git
+```
+
+### 2. Navegue para a pasta web
+
+```bash
 cd ProjetoWebinarTecnologiasEmergentes/web
 ```
 
-### 2. Instale as dependências
+### 3. Instale as dependências
 
 ```bash
 npm install
 ```
 
-### 3. Configure o Firebase
+### 4. Configure o Firebase
 
 Crie o arquivo src/config/Firebase.js com as configurações do seu projeto Firebase:
 
@@ -80,7 +85,7 @@ const db = getFirestore(app);
 export { db };
 ```
 
-### 4. Execute a aplicação
+### 5. Execute a aplicação
 
 ```bash
 npm start
